@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Spring and Spring Boot 
 
-- 👯 I’m looking to learn about javascript, angular and flutter
+- 👯 I’m looking forward to learn about javascript, angular and flutter
 
 - 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-SahilRajput-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajputsahil/)](https://www.linkedin.com/in/rajputsahil/) [![Gmail Badge](https://img.shields.io/badge/-SahilRajput-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajputsahil.2204@gmail.com)](mailto:rajputsahil.2204@gmail.com)
 
