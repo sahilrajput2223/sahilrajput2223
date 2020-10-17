@@ -2,7 +2,7 @@
 ### Hi there 👋 I am  Sahil Rajput 💻 
 
 
-<!-- <img align="center" alt="JPG" src="https://github.com/sahilrajput2223/sahilrajput2223/header.jpg" width="100%" height = "200px" /> -->
+<img align="center" alt="JPG" src="https://github.com/sahilrajput2223/sahilrajput2223/blob/main/header.jpg" width="100%" height = "100%" />
 
 ---
 
