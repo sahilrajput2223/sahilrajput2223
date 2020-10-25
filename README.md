@@ -17,7 +17,6 @@
 - 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-SahilRajput-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajputsahil/)](https://www.linkedin.com/in/rajputsahil/) [![Gmail Badge](https://img.shields.io/badge/-SahilRajput-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajputsahil.2204@gmail.com)](mailto:rajputsahil.2204@gmail.com)
 <!--[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40sahil__2223)](https://twitter.com/sahil__2223)-->
 
-
 ---
 
 **Github Stats:**
