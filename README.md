@@ -16,7 +16,7 @@
 
 ### About me: 🤗😀
 
-- ⚡ Keenly interested in learning new technologies 
+- ⚡ Keenly interested in learning new technologies and writing blogs
 
 - 🌱 I’m currently learning Spring and Spring Boot 
 
