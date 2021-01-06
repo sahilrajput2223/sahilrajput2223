@@ -1,5 +1,5 @@
 
-### Hi there 👋 I am  Sahil Rajput 💻 
+### Hi there  
 
 
 <img align="center" alt="JPG" src="https://github.com/sahilrajput2223/sahilrajput2223/blob/main/main.jpg" width="100%" height = "100%" />
