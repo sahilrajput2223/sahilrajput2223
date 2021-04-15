@@ -27,15 +27,23 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-6.svg" alt="Python logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="HTML logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySql logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="Sqlite logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="Mongodb logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/python-6.svg" alt="Python logo" width="70" height="70"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="HTML logo"  width="70" height="70"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS logo"  width="70" height="70"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript logo"  width="70" height="70"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java logo"  width="70" height="70"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP logo"  width="70" height="70"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring logo"  width="70" height="70"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git logo"  width="70" height="70"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySql logo"  width="70" height="70"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="Sqlite logo"  width="70" height="70"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="Mongodb logo"  width="70" height="70"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android logo"  width="70" height="70"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter logo"  width="70" height="70"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="Wordpress logo"  width="70" height="70"/>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" alt="Photoshop cs6 logo"  width="70" height="70"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-blender.svg" alt="Blender logo"  width="70" height="70"/>
+
 
 ---
 **Github Stats:**
