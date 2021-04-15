@@ -27,10 +27,7 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-6.svg" alt="Python logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="HTML logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/python-6.svg" alt="Python logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="HTML logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git logo" width="50" height="50"/> 
