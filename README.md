@@ -44,10 +44,6 @@
 
 ---
 
-
-
----
-
 ## &#x1f4c8; My GitHub Stats
 
 <p align="center">
@@ -60,7 +56,7 @@
 
 ---
 
-[twitter]: https://twitter.com
-[gmail]: https://gmail.com
-[linkedin]: https://www.linkedin.com
+[twitter]: https://twitter.com/Its_SR__
+[gmail]: mailto:rajputsahil.2204@gmail.com
+[linkedin]: https://www.linkedin.com/in/rajputsahil/
 [Facebook]: https://www.facebook.com
