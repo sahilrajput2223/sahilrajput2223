@@ -37,7 +37,9 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Python Django :: Let's Do It](https://sahilrajput.hashnode.dev/python-django-lets-do-it)
+- [APIs & Different types of HTTP Status Codes](https://sahilrajput.hashnode.dev/apis-and-different-types-of-http-status-codes)
+- [Find IP Address of any URL using Java](https://sahilrajput.hashnode.dev/find-ip-address-of-any-url-using-java)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://sahilrajput.hashnode.dev/)
