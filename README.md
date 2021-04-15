@@ -37,9 +37,10 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://catalins.tech)
+▶ [...more blog articles](https://sahilrajput.hashnode.dev/)
 
 ---
 
