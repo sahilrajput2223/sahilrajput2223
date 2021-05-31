@@ -58,7 +58,6 @@
 </p>
 
 
----
 
 [twitter]: https://twitter.com/Its_SR__
 [gmail]: mailto:rajputsahil.2204@gmail.com
