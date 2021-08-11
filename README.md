@@ -1,5 +1,12 @@
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sahil Rajput!
+<h3 align="center">
+  Welcome to Sahil Rajput's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Java+Developer;Python+Developer;Digital+Graphics+Creator)](https://git.io/typing-svg)
+
+
 
 <img align="center" alt="JPG" src="https://github.com/sahilrajput2223/sahilrajput2223/blob/main/main.jpg" width="100%" height = "100%" />
 
