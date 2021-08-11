@@ -163,8 +163,8 @@
 <center>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahilrajput2223&hide_border=true)](https://git.io/streak-stats)
 </center>
-https://activity-graph.herokuapp.com/graph?username=sahilrajput2223&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true
 
+<img alt="Sahil Rajput's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sahilrajput2223&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 [twitter]: https://twitter.com/Its_SR__
 [gmail]: mailto:rajputsahil.2204@gmail.com
