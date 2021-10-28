@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=1000&lines=Java+Developer;Python+Developer;Digital+Graphics+Creator)](https://git.io/typing-svg)
 
 
-<img align="center" alt="JPG" src="https://github.com/sahilrajput2223/sahilrajput2223/blob/main/main.jpg" width="100%" height = "100%" />
+<img align="center" alt="GIF" src="https://github.com/sahilrajput2223/sahilrajput2223/blob/main/code.gif" width="100%" height = "100%" />
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
