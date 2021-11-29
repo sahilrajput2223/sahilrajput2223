@@ -91,11 +91,11 @@ NEED TO WORK
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction of JavaDoc](https://sahilrajput.hashnode.dev/introduction-to-javadoc)
 - [Digital Clock Using JavaScript](https://sahilrajput.hashnode.dev/digital-clock-using-javascript)
 - [Getting Started with Git](https://sahilrajput.hashnode.dev/getting-started-with-git)
 - [Understand Your Mind](https://sahilrajput.hashnode.dev/understand-your-mind-impostersyndrome-b480be7101fe)
 - [Python Django :: Let&#39;s Do It](https://sahilrajput.hashnode.dev/python-django-lets-do-it)
-- [APIs &amp; Different types of HTTP Status Codes](https://sahilrajput.hashnode.dev/apis-and-different-types-of-http-status-codes)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://sahilrajput.hashnode.dev/)
