@@ -121,10 +121,11 @@ In my free time i also work on graphic design software like photoshop CS6, figma
 
 <img alt="Sahil Rajput's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sahilrajput2223&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
-[signal]:
+
+[signal]:https://sahilrajput2223.github.io
 [hackerrank]:https://www.hackerrank.com/rajputsahil_2204
 [hashnode]:https://hashnode.com/@SahilRajput
 [twitter]: https://twitter.com/Its_SR__
 [gmail]: mailto:rajputsahil.2204@gmail.com
-[linkedin]: https://www.linkedin.com/in/rajputsahil/
-[Instagram]: https://www.instagram.com/its.sr__/
+[linkedin]: https://www.linkedin.com/in/rajputsahil
+[Instagram]: https://www.instagram.com/its.sr__
