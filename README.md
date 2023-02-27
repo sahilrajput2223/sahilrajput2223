@@ -100,11 +100,11 @@ In my free time i also work on graphic design software like photoshop CS6, figma
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging: Tips and Tricks for Effective Problem-Solving](https://sahilrajput.hashnode.dev/debugging-tips-and-tricks-for-effective-problem-solving)
 - [React Lazy Loading](https://sahilrajput.hashnode.dev/react-lazy-loading)
 - [React Component](https://sahilrajput.hashnode.dev/react-component)
 - [Java -&gt; Spring Boot - Interceptor](https://sahilrajput.hashnode.dev/java-spring-boot-interceptor)
 - [Java --&gt; Spring Boot + MongoDB API With Pagination](https://sahilrajput.hashnode.dev/java-greater-spring-boot-mongodb-api-with-pagination)
+- [NPM or NPX ???](https://sahilrajput.hashnode.dev/npm-or-npx)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://sahilrajput.hashnode.dev/)
