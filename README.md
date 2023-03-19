@@ -115,7 +115,7 @@ In my free time i also work on graphic design software like photoshop CS6, figma
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilrajput2223&hide=stars&show_icons=true&line_height=48">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilrajput2223&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrajput2223&count_private=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrajput2223&hide_border=true">
 
