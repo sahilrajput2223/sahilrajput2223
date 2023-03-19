@@ -127,6 +127,12 @@ Seeking to leverage my skills and experience to contribute to the success of a d
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrajput2223&hide_border=true">
 
 
+## Joke:
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 [signal]: https://sahilrajput2223.github.io
 [hackerrank]: https://www.hackerrank.com/rajputsahil_2204
 [hashnode]: https://hashnode.com/@SahilRajput
