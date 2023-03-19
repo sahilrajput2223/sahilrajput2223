@@ -27,12 +27,17 @@
 
 ### About me: 🤗😀
 
-Currently, I’m practicing/learning/working on Java, Spring, Spring-MVC and Spring-Boot. keen to learn about Android development with flutter and dart, REST API, React, node.js and advance concept like AI, ML, DL, Blockchain etc.
+2.6+ years experienced Java developer with a solid understanding of enterprise-level application development. Proficient in Java, Spring Framework, Hibernate, Spring boot, Python. Strong understanding of software development methodologies, including Agile and Scrum. Passionate about delivering high-quality and efficient code.
+Strong desire to learn and stay current with the latest technologies, including Artificial Intelligence, Machine Learning and Flutter.
 
-I know python language to develop website using django framework. I also have some level of knowledge in asp.net, php.
+**Photoshop**: Skilled in image editing and manipulation, with experience in creating designs.
 
-In my free time i also work on graphic design software like photoshop CS6, figma etc. also writing blogs.
-  
+**Blogging**: Passionate about writing and sharing ideas on any topics. you can read my blogs at Hashnode
+
+**Gaming**: Avid player with knowledge of various platforms and games, experience in both single and multiplayer gaming.
+
+Seeking to leverage my skills and experience to contribute to the success of a dynamic organization.
+
 ---
 
 ![Visitor Count](https://profile-counter.glitch.me/{sahilrajput2223}/count.svg)
