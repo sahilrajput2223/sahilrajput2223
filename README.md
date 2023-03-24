@@ -128,7 +128,6 @@ Seeking to leverage my skills and experience to contribute to the success of a d
 
 
 ## 🃏 Joke:
-
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
