@@ -106,11 +106,11 @@ Seeking to leverage my skills and experience to contribute to the success of a d
  ## 📘 Latest Blog Articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the Art of Python-MongoDB Integration](https://sahilrajput.hashnode.dev/mastering-the-art-of-python-mongodb-integration)
 - [Debugging: Tips and Tricks for Effective Problem-Solving](https://sahilrajput.hashnode.dev/debugging-tips-and-tricks-for-effective-problem-solving)
 - [React Lazy Loading](https://sahilrajput.hashnode.dev/react-lazy-loading)
 - [React Component](https://sahilrajput.hashnode.dev/react-component)
 - [Java -&gt; Spring Boot - Interceptor](https://sahilrajput.hashnode.dev/java-spring-boot-interceptor)
-- [Java --&gt; Spring Boot + MongoDB API With Pagination](https://sahilrajput.hashnode.dev/java-greater-spring-boot-mongodb-api-with-pagination)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://sahilrajput.hashnode.dev/)
