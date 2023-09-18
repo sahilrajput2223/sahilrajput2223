@@ -106,11 +106,11 @@ Seeking to leverage my skills and experience to contribute to the success of a d
  ## 📘 Latest Blog Articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Crafting Multilingual Apps: A Dive into Spring Boot i18n](https://sahilrajput.hashnode.dev/crafting-multilingual-apps-a-dive-into-spring-boot-i18n)
 - [Flutter: A test drive](https://sahilrajput.hashnode.dev/flutter-test-drive)
 - [A Step-by-Step Guide for Setting Up Flutter](https://sahilrajput.hashnode.dev/guide-for-setting-up-flutter)
 - [Mastering the Art of Python-MongoDB Integration](https://sahilrajput.hashnode.dev/mastering-the-art-of-python-mongodb-integration)
 - [Debugging: Tips and Tricks for Effective Problem-Solving](https://sahilrajput.hashnode.dev/debugging-tips-and-tricks-for-effective-problem-solving)
-- [React Lazy Loading](https://sahilrajput.hashnode.dev/react-lazy-loading)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://sahilrajput.hashnode.dev/)
