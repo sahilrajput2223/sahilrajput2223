@@ -25,16 +25,13 @@
 
 ### About Me: 🤗😀
 
-2.6+ years experienced Java developer with a solid understanding of enterprise-level application development. Proficient in Java, Spring Framework, Hibernate, Spring boot, Python. Strong understanding of software development methodologies, including Agile and Scrum. Passionate about delivering high-quality and efficient code.
-Strong desire to learn and stay current with the latest technologies, including Artificial Intelligence, Machine Learning and Flutter.
+3+ years experienced Java developer with a solid understanding of enterprise-level application development. Proficient in Java, Spring Framework, Hibernate, Spring boot, Python. Strong understanding of software development methodologies, including Agile and Scrum. Passionate about delivering high-quality and efficient code. 
 
-**Photoshop**: Skilled in image editing and manipulation, with experience in creating designs.
+Strong desire to learn and stay current with the latest technologies, including Artificial Intelligence, Machine Learning and Flutter. 
 
-**Blogging**: Passionate about writing and sharing ideas on any topics. you can read my blogs at Hashnode
-
-**Gaming**: Avid player with knowledge of various platforms and games, experience in both single and multiplayer gaming.
-
-Seeking to leverage my skills and experience to contribute to the success of a dynamic organization.
+*Photoshop*: Skilled in image editing and manipulation, with experience in creating designs.
+*Blogging*: Passionate about writing and sharing ideas on any topics. you can read my blogs at https://sahilrajput.hashnode.dev
+*Gaming*: Avid player with knowledge of various platforms and games, experience in both single and multiplayer gaming.
 
 ---
 
