@@ -29,9 +29,11 @@
 
 Strong desire to learn and stay current with the latest technologies, including Artificial Intelligence, Machine Learning and Flutter. 
 
-*Photoshop*: Skilled in image editing and manipulation, with experience in creating designs.
-*Blogging*: Passionate about writing and sharing ideas on any topics. you can read my blogs at https://sahilrajput.hashnode.dev
-*Gaming*: Avid player with knowledge of various platforms and games, experience in both single and multiplayer gaming.
+**Photoshop**: Skilled in image editing and manipulation, with experience in creating designs.
+
+**Blogging**: Passionate about writing and sharing ideas on any topics. you can read my blogs at https://sahilrajput.hashnode.dev
+
+**Gaming**: Avid player with knowledge of various platforms and games, experience in both single and multiplayer gaming.
 
 ---
 
