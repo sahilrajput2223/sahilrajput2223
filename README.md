@@ -105,11 +105,11 @@ Strong desire to learn and stay current with the latest technologies, including 
  ## 📘 Latest Blog Articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Documenting a Spring REST API Using OpenAPI and Swagger-UI](https://sahilrajput.hashnode.dev/documenting-a-spring-rest-api-using-openapi-and-swagger-ui)
 - [Crafting Multilingual Apps: A Dive into Spring Boot i18n](https://sahilrajput.hashnode.dev/crafting-multilingual-apps-a-dive-into-spring-boot-i18n)
 - [Flutter: A test drive](https://sahilrajput.hashnode.dev/flutter-test-drive)
 - [A Step-by-Step Guide for Setting Up Flutter](https://sahilrajput.hashnode.dev/guide-for-setting-up-flutter)
 - [Mastering the Art of Python-MongoDB Integration](https://sahilrajput.hashnode.dev/mastering-the-art-of-python-mongodb-integration)
-- [Debugging: Tips and Tricks for Effective Problem-Solving](https://sahilrajput.hashnode.dev/debugging-tips-and-tricks-for-effective-problem-solving)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://sahilrajput.hashnode.dev/)
