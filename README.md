@@ -26,7 +26,7 @@
 
 ### About Me: 🤗😀
 
-3+ years experienced Java developer with a solid understanding of enterprise-level application development. Proficient in Java, Spring Framework, Hibernate, Spring boot, Python. Strong understanding of software development methodologies, including Agile and Scrum. Passionate about delivering high-quality and efficient code. 
+4+ years experienced Java developer with a solid understanding of enterprise-level application development. Proficient in Java, Spring Framework, Hibernate, Spring boot, Python. Strong understanding of software development methodologies, including Agile and Scrum. Passionate about delivering high-quality and efficient code. 
 
 Strong desire to learn and stay current with the latest technologies, including Artificial Intelligence, Machine Learning and Flutter. 
 
